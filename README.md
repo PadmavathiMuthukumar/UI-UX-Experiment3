@@ -14,7 +14,7 @@ Suggest UI/UX improvements based on findings.
 Prepare a comparative report with metrics and recommendations.
 ## Output:
 A detailed comparison of Swiggy, Zomato, and Uber Eats highlighting usability strengths and weaknesses, followed by recommended design improvements. Summary of Findings:
-[Download Lab 3 (UI UX).pdf](Lab%201%20(UI%20UX).pdf)
+[Download Lab 3 (UI UX).pdf](ex3.op.pdf)
 
 ## Result:
 From the heuristic evaluation, Swiggy offers the best overall user experience with intuitive navigation and minimal errors. Zomato provides strong visuals but can improve on load speed and error prevention. Uber Eats maintains consistency but can enhance personalization and discoverability. Implementing the proposed improvements is expected to increase usability scores and user satisfaction across all platforms.
